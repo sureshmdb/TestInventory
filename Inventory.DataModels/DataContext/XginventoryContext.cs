@@ -1,4 +1,5 @@
 ﻿using System;
+using Inventory.DataModels.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
